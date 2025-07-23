@@ -1,0 +1,5 @@
+Summarize the following educational content into 3–5 bullet points that capture the key concepts:
+
+{content}
+
+Summary:

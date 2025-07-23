@@ -1,0 +1,14 @@
+Based on the following summary, generate 3 multiple-choice quiz questions. Each question should have four options (a, b, c, d) and clearly mention the correct answer.
+
+Summary:
+{summary}
+
+Output format:
+Q1. [Question]
+a) Option 1
+b) Option 2
+c) Option 3
+d) Option 4
+Answer: [Correct Option]
+
+Questions:
